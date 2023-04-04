@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./index.js localhost 3201",
+    "run start": "nodemon ./index.js localhost 3201",
     "test": "echo \"Error: no test specified\" && exit 1",
     "vercel-build": "npm start"
   },
